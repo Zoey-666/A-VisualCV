@@ -43,8 +43,9 @@ File Structure:
 
 Author:
 -------
-[Your Name Here]
+Shruti Netake
 
 License:
 --------
 This project is open source and free to use under the MIT License.
+
